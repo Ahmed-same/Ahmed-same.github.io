@@ -1,3 +1,3 @@
 # Ahmed Sameh - Portfolio
 
-Personal portfolio site. Plain HTML, CSS and JavaScript.
+Personal portfolio site. Plain HTML, CSS and JavaScript, no build step.
