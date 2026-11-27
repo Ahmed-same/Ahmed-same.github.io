@@ -11,10 +11,10 @@
   <!-- hero heading (right) -->
   <text x="856" y="148" font-size="30" font-weight="800" fill="#36423C" text-anchor="end">اجتماعاتك كلها، <tspan fill="#557F6E">ملخصة ومرتبة</tspan></text>
   <text x="856" y="190" font-size="30" font-weight="800" fill="#36423C" text-anchor="end">في مكان واحد</text>
-  <text x="856" y="230" font-size="12" fill="#7C8680" text-anchor="end">موجز بيحوّل تسجيلات وملاحظات الاجتماعات لملخصات واضحة:</text>
-  <text x="856" y="249" font-size="12" fill="#7C8680" text-anchor="end">القرارات، المهام، والنقاط المهمة، ويوصّلها لكل فرد حسب دوره.</text>
+  <text x="856" y="230" font-size="12" fill="#7C8680" text-anchor="end">نموذج تجريبي لواجهة تعرض ملخصات الاجتماعات:</text>
+  <text x="856" y="249" font-size="12" fill="#7C8680" text-anchor="end">القرارات والمهام والنقاط المهمة (عينات).</text>
   <rect x="738" y="276" width="118" height="38" rx="19" fill="#6F9E8A"/>
-  <text x="797" y="300" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">ابدأ مجاناً</text>
+  <text x="797" y="300" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">جرّب الديمو</text>
   <rect x="604" y="276" width="122" height="38" rx="19" fill="none" stroke="#6F9E8A" stroke-width="1.5"/>
   <text x="665" y="300" font-size="13" font-weight="700" fill="#557F6E" text-anchor="middle">شوف إزاي بيشتغل</text>
   <!-- summary card (left) -->
@@ -35,12 +35,14 @@
   <g>
     <rect x="48" y="380" width="253" height="110" rx="14" fill="#FFFFFF" stroke="#E7E3DA"/>
     <text x="174" y="430" font-size="26" font-weight="800" fill="#557F6E" text-anchor="middle">١٢٬٤٠٠</text>
-    <text x="174" y="460" font-size="12" fill="#7C8680" text-anchor="middle">مستخدم مسجّل</text>
+    <text x="174" y="460" font-size="12" fill="#7C8680" text-anchor="middle">مستخدم (رقم تجريبي)</text>
     <rect x="323" y="380" width="253" height="110" rx="14" fill="#FFFFFF" stroke="#E7E3DA"/>
     <text x="449" y="430" font-size="26" font-weight="800" fill="#557F6E" text-anchor="middle">٤٨٬٢٠٠</text>
-    <text x="449" y="460" font-size="12" fill="#7C8680" text-anchor="middle">اجتماع تم تلخيصه</text>
+    <text x="449" y="460" font-size="12" fill="#7C8680" text-anchor="middle">اجتماع (رقم تجريبي)</text>
     <rect x="598" y="380" width="253" height="110" rx="14" fill="#FFFFFF" stroke="#E7E3DA"/>
     <text x="724" y="430" font-size="26" font-weight="800" fill="#557F6E" text-anchor="middle">٩٧٪</text>
-    <text x="724" y="460" font-size="12" fill="#7C8680" text-anchor="middle">نسبة رضا المستخدمين</text>
+    <text x="724" y="460" font-size="12" fill="#7C8680" text-anchor="middle">نسبة رضا (رقم تجريبي)</text>
   </g>
+  <rect x="0" y="523" width="900" height="40" fill="#FFF7E0"/>
+  <text x="450" y="548" font-size="15" font-weight="700" fill="#6B4E00" text-anchor="middle">Prototype · sample data · no automatic summarization</text>
 </svg>
