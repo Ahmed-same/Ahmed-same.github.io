@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 563" font-family="Tajawal, Cairo, Segoe UI, sans-serif">
+  <rect width="900" height="563" fill="#F6F4EF"/>
+  <!-- header -->
+  <rect x="0" y="0" width="900" height="58" fill="#F6F4EF" stroke="#E7E3DA" stroke-width="1"/>
+  <rect x="822" y="14" width="30" height="30" rx="10" fill="#6F9E8A"/>
+  <text x="837" y="35" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle">م</text>
+  <text x="810" y="36" font-size="19" font-weight="800" fill="#36423C" text-anchor="end">موجز</text>
+  <rect x="48" y="15" width="96" height="28" rx="14" fill="#6F9E8A"/>
+  <text x="96" y="34" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">إنشاء حساب</text>
+  <text x="168" y="34" font-size="12" font-weight="500" fill="#36423C">تسجيل الدخول</text>
+  <!-- hero heading (right) -->
+  <text x="856" y="148" font-size="30" font-weight="800" fill="#36423C" text-anchor="end">اجتماعاتك كلها، <tspan fill="#557F6E">ملخصة ومرتبة</tspan></text>
+  <text x="856" y="190" font-size="30" font-weight="800" fill="#36423C" text-anchor="end">في مكان واحد</text>
+  <text x="856" y="230" font-size="12" fill="#7C8680" text-anchor="end">موجز بيحوّل تسجيلات وملاحظات الاجتماعات لملخصات واضحة:</text>
+  <text x="856" y="249" font-size="12" fill="#7C8680" text-anchor="end">القرارات، المهام، والنقاط المهمة، ويوصّلها لكل فرد حسب دوره.</text>
+  <rect x="738" y="276" width="118" height="38" rx="19" fill="#6F9E8A"/>
+  <text x="797" y="300" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">ابدأ مجاناً</text>
+  <rect x="604" y="276" width="122" height="38" rx="19" fill="none" stroke="#6F9E8A" stroke-width="1.5"/>
+  <text x="665" y="300" font-size="13" font-weight="700" fill="#557F6E" text-anchor="middle">شوف إزاي بيشتغل</text>
+  <!-- summary card (left) -->
+  <rect x="48" y="100" width="368" height="238" rx="18" fill="#FFFFFF" stroke="#E7E3DA"/>
+  <circle cx="390" cy="130" r="5" fill="#6F9E8A"/>
+  <text x="376" y="135" font-size="14" font-weight="800" fill="#36423C" text-anchor="end">ملخص اجتماع فريق التطوير</text>
+  <g font-size="11" fill="#36423C">
+    <rect x="64" y="152" width="336" height="34" rx="10" fill="#E4EFE9"/>
+    <text x="386" y="174" text-anchor="end">✓ تم اعتماد تصميم الصفحة الرئيسية الجديد</text>
+    <rect x="64" y="194" width="336" height="34" rx="10" fill="#F6EBDD"/>
+    <text x="386" y="216" text-anchor="end">✓ أحمد هيسلّم نموذج الواجهة يوم الخميس</text>
+    <rect x="64" y="236" width="336" height="34" rx="10" fill="#ECEAF4"/>
+    <text x="386" y="258" text-anchor="end">✓ مراجعة الأداء اتأجلت للأسبوع الجاي</text>
+    <rect x="64" y="278" width="336" height="34" rx="10" fill="#E4EFE9"/>
+    <text x="386" y="300" text-anchor="end">✓ الاجتماع الجاي: الثلاثاء، 11 صباحاً</text>
+  </g>
+  <!-- stats -->
+  <g>
+    <rect x="48" y="380" width="253" height="110" rx="14" fill="#FFFFFF" stroke="#E7E3DA"/>
+    <text x="174" y="430" font-size="26" font-weight="800" fill="#557F6E" text-anchor="middle">١٢٬٤٠٠</text>
+    <text x="174" y="460" font-size="12" fill="#7C8680" text-anchor="middle">مستخدم مسجّل</text>
+    <rect x="323" y="380" width="253" height="110" rx="14" fill="#FFFFFF" stroke="#E7E3DA"/>
+    <text x="449" y="430" font-size="26" font-weight="800" fill="#557F6E" text-anchor="middle">٤٨٬٢٠٠</text>
+    <text x="449" y="460" font-size="12" fill="#7C8680" text-anchor="middle">اجتماع تم تلخيصه</text>
+    <rect x="598" y="380" width="253" height="110" rx="14" fill="#FFFFFF" stroke="#E7E3DA"/>
+    <text x="724" y="430" font-size="26" font-weight="800" fill="#557F6E" text-anchor="middle">٩٧٪</text>
+    <text x="724" y="460" font-size="12" fill="#7C8680" text-anchor="middle">نسبة رضا المستخدمين</text>
+  </g>
+</svg>
